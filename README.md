@@ -46,6 +46,14 @@ To pull and run models from Ollama, you can use the following command. For examp
 docker exec -it ollama ollama pull secfa/DeepSeek-R1-UD-Q2_K_XL
 ```
 
+### Access the Open WebUI
+
+```bash
+http://localhost:3000/
+```
+
+visite the above link to Access Ollama and its installed model with GUI.
+
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
