@@ -12,11 +12,12 @@ This project aims to set up and configure Ollama, a tool for managing and deploy
 
 ### Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/night-fury-me/ollama-setup.git
-    cd ollama-setup
-    ```
+Clone the repository:
+
+```bash
+git clone https://github.com/night-fury-me/ollama-setup.git
+cd ollama-setup
+```
 
 ### Docker Setup
 
