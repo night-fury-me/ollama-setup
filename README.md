@@ -55,6 +55,13 @@ http://localhost:3000/
 
 visite the above link to Access Ollama and its installed model with GUI.
 
+**Note:** For linux the connection needs to be updated with: `http://ollama:11434` instead of `http://host.docker.internal:11434`
+
+-   Open Open WebUI at http://localhost:3000
+-   Go to Settings → Connections → Ollama API
+-   Click ✏️ to edit the connection
+-   Replace `http://host.docker.internal:11434` with `http://ollama:11434`
+
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
